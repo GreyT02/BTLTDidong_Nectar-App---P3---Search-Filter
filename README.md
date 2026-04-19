@@ -1,5 +1,7 @@
 # Họ và Tên: Lý Văn Thủy - MSV:23810310226
- # ThucHanh_LTdidong_13-04
+# Thực hành 19/04/2026: Nectar App - P3 - Search/Filter
+
+## Ảnh chụp màn hình chạy
 
 <img width="1139" height="5751" alt="image" src="https://github.com/user-attachments/assets/c1d07d8e-83ef-4bdb-9015-70e69933020c" />
 <img width="1200" height="2664" alt="image" src="https://github.com/user-attachments/assets/4311b867-3073-4d9c-8d0f-684abe4c6b82" />
